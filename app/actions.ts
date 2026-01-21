@@ -82,6 +82,8 @@ Instruksi Khusus:
 3. Sertakan 10-15 hashtag relevan (campuran global dan lokal Indonesia).
 4. Gunakan Bahasa Indonesia yang natural (kecuali diminta lain).
 5. Jika ada teks di dalam gambar, gunakan itu sebagai konteks tambahan.
+6. PENTING: Langsung berikan hasil caption TANPA kalimat pembuka pembuka seperti "Tentu", "Berikut captionnya", dsb.
+7. PENTING: Jangan gunakan formatting Markdown (seperti tanda bintang ** atau __). Tulis dalam Plain Text biasa agar siap posting.
 `;
 
     if (instructions) {
